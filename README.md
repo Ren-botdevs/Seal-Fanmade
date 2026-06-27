@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/Ren-botdevs/Seal-Fanmade/main/assets/banner.png](https://media.licdn.com/dms/image/v2/D4D12AQELAGJVYj0s2Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709747749439?e=2147483647&v=beta&t=GoNktqAeSyZv0CMqwBvbIRRns2qzW0JwZrcxhYU-PGY)" alt="Seal Bot" width="600"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQELAGJVYj0s2Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709747749439?e=2147483647&v=beta&t=GoNktqAeSyZv0CMqwBvbIRRns2qzW0JwZrcxhYU-PGY" alt="Seal Bot" width="600"/>
 
 # Seal Fanmade
 ### YouTube Downloader Telegram Bot
