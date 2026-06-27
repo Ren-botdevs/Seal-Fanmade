@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ren-botdevs/Seal-Fanmade/main/assets/banner.png" alt="Seal Bot" width="600"/>
 
-# Seal
+# Seal Fanmade
 ### YouTube Downloader Telegram Bot
 
 A clean, fast, and multilingual Telegram bot for downloading YouTube videos and audio — powered by yt-dlp and aiogram.
